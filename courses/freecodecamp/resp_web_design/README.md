@@ -1,19 +1,19 @@
 Workshops, Labs and Certification Projects in freeCodeCamp's Responsive Web Design Certificate course.
-1. Workshop: Build a Curriculum Outline
-2. Lab: Debug Camperbot's Profile Page
-3. Lab: Debug a Pet Adoption Page
-4. Workshop: Build a Cat Photo App
+1. Workshop: Build a Curriculum Outline - /workshop_curriculum_outline.html
+2. Lab: Debug Camperbot's Profile Page - /lab_camperbot_pp.html
+3. Lab: Debug a Pet Adoption Page - /
+4. Workshop: Build a Cat Photo App - /workshop_cat_pic_app.html
 5. Lab: Build a Recipe Page
-6. Workshop: Build a Bookstore Page
+6. Workshop: Build a Bookstore Page - /workshop_bookstore_page.html
 7. Lab: Build a Travel Agency Page
 8. Workshop: Build an HTML Video Player
 9. Lab: Build an HTML Audio and Video Player
-10. Workshop: Build a Heart Icon
+10. Workshop: Build a Heart Icon - /workshop_heart_icon.html
 11. Workshop: Build a Video Display Using iframe
 12. Lab: Build a Video Compilation Page
-13. Workshop: Build a List of Major Web Browsers
-14. Workshop: Build Quincy's Job Tips Page
-15. Workshop: Build a Cat Blog Page
+13. Workshop: Build a List of Major Web Browsers - /workshop_web_browsers.html
+14. Workshop: Build Quincy's Job Tips Page - /workshop_job_tips.html
+15. Workshop: Build a Cat Blog Page - /workshop_cat_blog.html
 16. Lab: Build an Event Hub
 17. Workshop: Build a Hotel Feedback Form
 18. Workshop: Build a Final Exams Table

@@ -1,4 +1,4 @@
-Workshops, Labs and Certification Projects in freeCodeCamp's following courses:
+Labs and Certification Projects in freeCodeCamp's following courses:
 1. Responsive Web Design Certification - /resp_web_design (not completed yet)
 2. JavaScript Certification - /javascript (not started)
 3. Front End Development Libraries Certification - /frontend_dev_libs (not started)

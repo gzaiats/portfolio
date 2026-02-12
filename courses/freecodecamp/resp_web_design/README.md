@@ -25,11 +25,11 @@ Labs and Certification Projects in freeCodeCamp's Responsive Web Design Certific
 24. Certification Project: Build a Page of Playing Cards
 25. Lab: Build a Newspaper Article
 26. Lab: Build a Tribute Page
-27. Lab: Build a House Painting - /
-28. Certification Project: Build a Book Inventory App - /
-29. Certification Project: Build a Technical Documentation Page - /
-30. Lab: Build an Availability Table - /
-31. Lab: Design a Newspaper Layout - /
-32. Certification Project: Build a Product Landing Page - /
-33. Lab: Build a Moon Orbit - /
-34. Lab: Build a Personal Portfolio - /
+27. Lab: Build a House Painting 
+28. Certification Project: Build a Book Inventory App 
+29. Certification Project: Build a Technical Documentation Page 
+30. Lab: Build an Availability Table 
+31. Lab: Design a Newspaper Layout 
+32. Certification Project: Build a Product Landing Page 
+33. Lab: Build a Moon Orbit 
+34. Lab: Build a Personal Portfolio 

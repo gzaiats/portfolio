@@ -1,30 +1,30 @@
 Labs and Certification Projects in freeCodeCamp's Responsive Web Design Certificate course.
-1. Lab: Debug Camperbot's Profile Page - /labs/camperbots_pg.html
-2. Lab: Debug a Pet Adoption Page - /labs/pet_adopt.html
-3. Lab: Build a Recipe Page - /labs/recipe_page.html
-4. Lab: Build a Travel Agency Page - /labs/travel_agency.html
-5. Lab: Build an HTML Audio and Video Player - /
-6. Lab: Build a Video Compilation Page - /
-7. Lab: Build an Event Hub - /
-8. Lab: Build a Book Catalog Table - /
-9. Certification Project: Build a Survey Form - /certification_projects/survey_form.html
-10. Lab: Debug a Donation Form - /
-11. Lab: Build a Checkout Page - /
-12. Lab: Design a Movie Review Page - /
-13. Lab: Build a Multimedia Player - /
-14. Lab: Design a Business Card - /
-15. Lab: Build a Stylized To-Do List - /
-16. Lab: Design a Blog Post Card - /
-17. Lab: Build an Event Flyer Page - /
-18. Lab: Build a Job Application Form - /
-19. Lab: Design a Set of Colored Boxes - /
-20. Lab: Design a Contact Form - /
-21. Lab: Design a Feature Selection Page - /
-22. Lab: Build a Confidential Email Page - /
-23. Lab: Design a Pricing Plans Layout Page - /
-24. Certification Project: Build a Page of Playing Cards - /
-25. Lab: Build a Newspaper Article - /
-26. Lab: Build a Tribute Page - /
+1. [Lab: Debug Camperbot's Profile Page]()
+2. Lab: Debug a Pet Adoption Page
+3. Lab: Build a Recipe Page 
+4. Lab: Build a Travel Agency Page 
+5. Lab: Build an HTML Audio and Video Player 
+6. Lab: Build a Video Compilation Page
+7. Lab: Build an Event Hub
+8. Lab: Build a Book Catalog Table
+9. [Certification Project: Build a Survey Form](https://github.com/gzaiats/portfolio/blob/main/courses/freecodecamp/resp_web_design/certification_projects/survey_form.html)
+10. Lab: Debug a Donation Form 
+11. Lab: Build a Checkout Page
+12. Lab: Design a Movie Review Page
+13. Lab: Build a Multimedia Player
+14. Lab: Design a Business Card
+15. Lab: Build a Stylized To-Do List
+16. Lab: Design a Blog Post Card
+17. Lab: Build an Event Flyer Page
+18. Lab: Build a Job Application Form
+19. Lab: Design a Set of Colored Boxes
+20. Lab: Design a Contact Form
+21. Lab: Design a Feature Selection Page
+22. Lab: Build a Confidential Email Page
+23. Lab: Design a Pricing Plans Layout Page
+24. Certification Project: Build a Page of Playing Cards
+25. Lab: Build a Newspaper Article
+26. Lab: Build a Tribute Page
 27. Lab: Build a House Painting - /
 28. Certification Project: Build a Book Inventory App - /
 29. Certification Project: Build a Technical Documentation Page - /

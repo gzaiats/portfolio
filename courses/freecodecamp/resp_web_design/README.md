@@ -1,8 +1,8 @@
 Labs and Certification Projects in freeCodeCamp's Responsive Web Design Certificate course.
-1. [Lab: Debug Camperbot's Profile Page]()
-2. Lab: Debug a Pet Adoption Page
-3. Lab: Build a Recipe Page 
-4. Lab: Build a Travel Agency Page 
+1. [Lab: Debug Camperbot's Profile Page](https://github.com/gzaiats/portfolio/blob/main/courses/freecodecamp/resp_web_design/labs/camperbots_pg.html)
+2. [Lab: Debug a Pet Adoption Page](https://github.com/gzaiats/portfolio/blob/main/courses/freecodecamp/resp_web_design/labs/pet_adopt.html)
+3. [Lab: Build a Recipe Page](https://github.com/gzaiats/portfolio/blob/main/courses/freecodecamp/resp_web_design/labs/recipe_page.html) 
+4. [Lab: Build a Travel Agency Page](https://github.com/gzaiats/portfolio/blob/main/courses/freecodecamp/resp_web_design/labs/travel_agency.html) 
 5. Lab: Build an HTML Audio and Video Player 
 6. Lab: Build a Video Compilation Page
 7. Lab: Build an Event Hub

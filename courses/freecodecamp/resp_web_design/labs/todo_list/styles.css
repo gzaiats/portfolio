@@ -1,0 +1,23 @@
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #00ffdd;
+}
+
+a:hover {
+  color: #daa3ff;
+}
+
+a:active {
+  color: #7ae7ff;
+}
+
+a:visited {
+  color: #ffbde6;
+}
+
+a:focus {
+  outline: 2px solid #ffffff;
+}

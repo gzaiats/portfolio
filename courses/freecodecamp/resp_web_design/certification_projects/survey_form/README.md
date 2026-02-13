@@ -69,6 +69,7 @@ Tests
 44. Your #submit should be a descendant of #survey-form.
 
 Starting code:
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -78,3 +79,4 @@ Starting code:
 
   <body></body>
 </html>
+```

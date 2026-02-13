@@ -6,7 +6,7 @@ Labs and Certification Projects in freeCodeCamp's Responsive Web Design Certific
 5. [Lab: Build an HTML Audio and Video Player](https://github.com/gzaiats/portfolio/blob/main/courses/freecodecamp/resp_web_design/labs/audio_video_player.html)
 6. [Lab: Build a Video Compilation Page](https://github.com/gzaiats/portfolio/blob/main/courses/freecodecamp/resp_web_design/labs/video_comp.html)
 7. [Lab: Build an Event Hub](https://github.com/gzaiats/portfolio/blob/main/courses/freecodecamp/resp_web_design/labs/event_hub.html)
-8. Lab: Build a Book Catalog Table
+8. [Lab: Build a Book Catalog Table](https://github.com/gzaiats/portfolio/blob/main/courses/freecodecamp/resp_web_design/labs/book_catalog.html)
 9. [Certification Project: Build a Survey Form](https://github.com/gzaiats/portfolio/blob/main/courses/freecodecamp/resp_web_design/certification_projects/survey_form.html)
 10. Lab: Debug a Donation Form 
 11. Lab: Build a Checkout Page

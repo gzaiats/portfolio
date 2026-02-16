@@ -14,8 +14,8 @@ Labs and Certification Projects in freeCodeCamp's Responsive Web Design Certific
 14. [Lab: Build a Multimedia Player](https://github.com/gzaiats/portfolio/blob/main/courses/freecodecamp/resp_web_design/labs/multimedia_player/)
 15. [Lab: Design a Business Card](https://github.com/gzaiats/portfolio/tree/main/courses/freecodecamp/resp_web_design/labs/business_card)
 16. [Lab: Build a Stylized To-Do List](https://github.com/gzaiats/portfolio/tree/main/courses/freecodecamp/resp_web_design/labs/todo_list)
-17. Lab: Design a Blog Post Card
-18. Lab: Build an Event Flyer Page
+17. [Lab: Design a Blog Post Card](https://github.com/gzaiats/portfolio/tree/main/courses/freecodecamp/resp_web_design/labs/post_card)
+18. [Lab: Build an Event Flyer Page](https://github.com/gzaiats/portfolio/tree/main/courses/freecodecamp/resp_web_design/labs/event_flyer)
 19. Lab: Build a Job Application Form
 20. Lab: Design a Set of Colored Boxes
 21. Lab: Design a Contact Form

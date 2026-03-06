@@ -32,7 +32,8 @@ Tests
 15. sixthResult should have the numeric value 22.
 16. sixthResult should not include null in its expression.
 
-Starting code:
+Starting code:<img width="715" height="615" alt="Opera Snapshot_2026-03-06_202409_www freecodecamp org" src="https://github.com/user-attachments/assets/b9e007f6-394c-4883-be47-649ab1ee2546" />
+
 ```
 const firstResult = 5 + "10";
 console.log(`5 + 10 = ${firstResult}`);

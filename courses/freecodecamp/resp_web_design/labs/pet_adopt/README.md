@@ -1,37 +1,30 @@
-Debug a Pet Adoption Page
-Sally, a pet adoption store owner, has built her first web page but there are some issues.
+# Debug a Pet Adoption Page
 
-Your job is to fix all of the errors so Sally can continue building her page.
+Part of the **FreeCodeCamp Responsive Web Design Certification**.
+<br><br>
 
-Objective: Fulfill the user stories below and get all the tests to pass to complete the lab.
+## 📸 Preview
 
-User Stories:
+add image
+<br><br>
 
-Sally wants to use an image of some cats but it is not displaying correctly. You will need to fix the following in the img element:
-Replace the href attribute with the correct attribute for the image source.
-Replace the att attribute with the correct attribute representing short, descriptive text for images.
-Remove the </img> closing tag because img elements are void elements and don't have closing tags.
-Sally wants to use some links to direct users to the dog and cat pages. But the links are not working correctly. You will need to fix the following in the a elements:
-Replace both src attributes with the correct attributes used to specify URLs.
+## 🛠 Skills Practiced
 
-Tests
-1. Your img element should have a src attribute instead of the href attribute.
-2. Your img element should have an alt attribute instead of the non-existent att attribute.
-3. Your img element should not have a </img> closing tag.
-4. Your a element with the text Visit cats page needs to have an href attribute instead of a src attribute.
-5. Your a element with the text Visit dogs page needs to have an href attribute instead of a src attribute.
+HTML • Debugging • HTML Attributes
+<br><br>
 
-Starting code:
-```
-<h1>Welcome XYZ Pet Adoption!</h1>
-<p>Consider adopting a pet today. We have cats, dogs, rabbits and more.</p>
+## 📝 Description
 
-<h2>See our cats!</h2>
-<img href="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" att="Two tabby kittens sleeping together on a couch."></img>
+A debugging exercise where I fixed incorrect HTML attributes and syntax errors in image and anchor elements on a simple pet adoption page.
+<br><br>
 
-<h2>Adopt a cat!</h2>
-<a src="/cats">Visit cats page</a>
+## ✅ FreeCodeCamp Requirements
 
-<h2>Adopt a dog!</h2>
-<a src="/dogs">Visit dogs page</a>
-```
+All tests passed.
+<br><br>
+
+## 🔗 Original Challenge
+
+[Lab: Debug a Pet Adoption Page](https://www.freecodecamp.org/learn/responsive-web-design-v9/lab-debug-pet-adoption-page/lab-debug-pet-adoption-page)
+<br><br>
+*To verify the requirements, paste this project's code into fCC's editor.*

@@ -1,58 +1,30 @@
-Debug a Donation Form
-A local charity has built a donation form website, but there are several issues that need to be fixed. The form isn't accessible and has some HTML syntax errors.
+# Debug a Donation Form
 
-Your job is to fix all of the errors so the form works correctly and is accessible to all users. Complete the items in the user stories below and click "Run the Tests" to see if you fixed all the errors.
+Part of the **FreeCodeCamp Responsive Web Design Certification**.
+<br><br>
 
-User Stories:
+## 📸 Preview
 
-1. The input elements are void elements and should not have closing tags. Remove all </input> closing tags from the form.
-2. Add label elements for each form input field so users know what each field is for. The label text should match what's currently next to each input.
-3. The Email Address: input type should be an email instead of text.
-4. You should associate each label element with its corresponding input element using the for attribute on the label and a matching id attribute on the input.
-5. Add the required attribute to the text, email, and number input fields (but not the checkbox or submit button) to ensure users fill in the required information.
+add image
+<br><br>
 
-Tests
-1. You should not have any </input> closing tags in your code.
-2. You should have exactly five input elements in your form.
-3. You should have exactly four label elements in your form.
-4. Your first label should have the text Full Name:.
-5. Your first input should have a required attribute.
-6. Your second label should have the text Email Address:.
-7. Your second input should have a required attribute.
-8. Your third label should have the text Donation Amount ($):.
-9. Your third input should have a required attribute.
-10. Your fourth label should have the text Subscribe.
-11. You should associate every input element with a label element using the for and id attributes.
-12. Your input for the email address should be of type email.
-13. Your checkbox input should not have a required attribute.
-14. Your submit button should not have a required attribute.
+## 🛠 Skills Practiced
 
-Starting code:
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Donation Form</title>
-</head>
-<body>
-  <h1>Donation Form</h1>
-  <form>
-    
-    Full Name:
-    <input type="text" name="name"></input>
+HTML • Debugging • Form Elements
+<br><br>
 
-    Email Address:
-    <input type="text" name="email">
+## 📝 Description
 
-    Donation Amount ($):
-    <input type="number" name="amount"></input>
+A debugging exercise where I fixed HTML errors in a donation form by correcting labels, input attributes, and required fields.
+<br><br>
 
-    <input type="checkbox" name="newsletter"></input>
-    Subscribe
+## ✅ FreeCodeCamp Requirements
 
-    <input type="submit" value="Send"></input>
-  </form>
-</body>
-</html>
-```
+All tests passed.
+<br><br>
+
+## 🔗 Original Challenge
+
+[Lab: Debug a Donation Form](https://www.freecodecamp.org/learn/responsive-web-design-v9/lab-debug-donation-form/debug-donation-form)
+<br><br>
+*To verify the requirements, paste this project's code into fCC's editor.*

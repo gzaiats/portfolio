@@ -1,52 +1,30 @@
-Build an HTML Audio and Video Player
-Build an app that is functionally similar to this example project. Try not to copy the example project, give it your own personal style.
+# Build an HTML Audio and Video Player
 
-Objective: Fulfill the user stories below and get all the tests to pass to complete the lab.
+Part of the **FreeCodeCamp Responsive Web Design Certification**.
+<br><br>
 
-User Stories:
+## 📸 Preview
 
-1. You should have an h1 element for the main title of the page.
-2. You should have two section elements.
-3. Inside the first section element, you should have an h2 element for the title of the video playing.
-4. Below the h2 element, you should have a video element with controls and width attributes. The width attribute should be set to 640.
-5. Inside the video element, you should have a source element with a src attribute pointing to a video file and a type attribute.
-- You can use https://cdn.freecodecamp.org/curriculum/labs/what-is-the-map-method-and-how-does-it-work.mp4.
-6. Inside the second section element, you should have an h2 element for the title of the song playing.
-7. Below the h2 element, you should have an audio element with the controls and loop attributes, and a src attribute that points to an audio file.
-- You can use https://cdn.freecodecamp.org/curriculum/js-music-player/sailing-away.mp3.
-- Or https://cdn.freecodecamp.org/curriculum/js-music-player/we-are-going-to-make-it.mp3.
+add image
+<br><br>
 
-Tests
-1. You should have an h1 element for the main title of the page.
-2. Your h1 should not be empty.
-3. You should have only one h1 element
-4. You should have two section elements.
-5. Inside the first section element, you should have an h2 element for the title of the video playing.
-6. Below the h2 element, you should have a video element.
-7. The video element should have a controls attribute.
-8. The video element should have a width attribute set to 640.
-9. Inside the video element, you should have a source element.
-10. The source element should have a src attribute pointing to a video file.
-11. The source element should have a type attribute
-12. The type attribute should match the media type of the file extension of the src attribute.
-13. Inside the second section element, you should have an h2 element for the title of the song playing.
-14. All your h2 elements should contain some text.
-15. Below the h2 element, you should have an audio element.
-16. The audio element should have a controls attribute.
-17. The audio element should have a loop attribute.
-18. The audio element should have a src attribute pointing to an audio file.
+## 🛠 Skills Practiced
 
-Starting code:
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>HTML Audio and Video Lab</title>
-</head>
-<body>
+HTML • Audio and Video Elements
+<br><br>
 
-</body>
-</html>
-```
+## 📝 Description
+
+A simple media page where I embedded a video and an audio player using the HTML `video` and `audio` elements with playback controls and source files.
+<br><br>
+
+## ✅ FreeCodeCamp Requirements
+
+All tests passed.
+<br><br>
+
+## 🔗 Original Challenge
+
+[Lab: Build an HTML Audio and Video Player](https://www.freecodecamp.org/learn/responsive-web-design-v9/lab-html-audio-and-video-player/build-an-html-audio-and-video-player)
+<br><br>
+*To verify the requirements, paste this project's code into fCC's editor.*

@@ -5,8 +5,9 @@ Part of the **FreeCodeCamp JavaScript Certification**.
 
 ## 📸 Preview
 
-add image
+<img width="350" src="https://github.com/user-attachments/assets/3fb677cc-d2c3-47ee-a1de-d0df907218e5"/>
 <br><br>
+
 
 ## 🛠 Skills Practiced
 

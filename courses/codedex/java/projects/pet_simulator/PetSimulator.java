@@ -167,31 +167,61 @@ public class PetSimulator {
             if (command == 'F') {
                 System.out.println("\n You fed %s. Energy +5. What do you want to do next?".formatted(petName));
                 energy += 5;
-                System.out.println(stats);
+                System.out.println("""
+                \n
+                Energy: %d
+                Happiness: %d
+                Skill: %d
+                \n
+                """.formatted(energy, happiness, skill));
 
             } else if (command == 'W') {
                 System.out.println("\n You walked with %s. Energy -1, Hapinness +2. What do you want to do next?".formatted(petName));
                 energy -= 1;
                 happiness += 2;
-                System.out.println(stats);
+                System.out.println("""
+                \n
+                Energy: %d
+                Happiness: %d
+                Skill: %d
+                \n
+                """.formatted(energy, happiness, skill));
 
             } else if (command == 'P') {
                 System.out.println("\n You played with %s. Energy -2, Hapinness +3. What do you want to do next?".formatted(petName));
-                energy -= 1;
+                energy -= 2;
                 happiness += 3;
-                System.out.println(stats);
+                System.out.println("""
+                \n
+                Energy: %d
+                Happiness: %d
+                Skill: %d
+                \n
+                """.formatted(energy, happiness, skill));
 
             } else if (command == 'T') {
                 System.out.println("\n You trained %s. Energy -3, Skill +3. What do you want to do next?".formatted(petName));
                 energy -= 3;
                 skill += 3;
-                System.out.println(stats);
+                System.out.println("""
+                \n
+                Energy: %d
+                Happiness: %d
+                Skill: %d
+                \n
+                """.formatted(energy, happiness, skill));
 
             } else if (command == 'C') {
                 System.out.println("\n You walked with %s. Energy +3, Hapinness +3. What do you want to do next?".formatted(petName));
                 energy += 3;
                 happiness += 3;
-                System.out.println(stats);
+                System.out.println("""
+                \n
+                Energy: %d
+                Happiness: %d
+                Skill: %d
+                \n
+                """.formatted(energy, happiness, skill));
 
             } else if (command == 'E') {
                 System.out.println("\n Exited game.");
